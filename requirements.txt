@@ -1,0 +1,4 @@
+openai>=1.40.0
+litellm>=1.44.10
+python-dotenv
+tiktoken
